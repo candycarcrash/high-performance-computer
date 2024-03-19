@@ -1,0 +1,36 @@
+{
+  "name": "high-performance-computer",
+  "version": "1.0.0",
+  "description": "Computer designed for high-performance computing tasks, supporting parallel processing.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/candycarcrash/high-performance-computer"
+  },
+  "author": "candycarcrash",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-query-builder": "1.0.0",
+    "high-performance-computer": "1.0.0",
+    "debug": "1.0.0",
+    "webpack": "1.0.0",
+    "solc": "1.0.0",
+    "bluebird": "1.0.0",
+    "node-sass": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "passport": "1.0.0",
+    "cors": "1.0.0",
+    "moment": "1.0.0",
+    "ipfs-http-client": "1.0.0",
+    "truffle": "1.0.0",
+    "webpack-cli": "1.0.0",
+    "mongoose": "1.0.0",
+    "pg": "1.0.0",
+    "react-dom": "1.0.0",
+    "ethers": "1.0.0",
+    "validator": "1.0.0"
+  }
+}
